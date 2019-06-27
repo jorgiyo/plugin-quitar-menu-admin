@@ -53,4 +53,5 @@ return false;
 }
 return true;
 }
+
 add_filter('screen_options_show_screen', 'ece_wpb_remove_screen_options');
