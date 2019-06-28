@@ -5,6 +5,7 @@ Plugin URI: peonnegro.com
 Description: Plugin de WPcommerce Fácil
 Versión: 2.0
 Author: Fernando Portomeñe
+GitHub Plugin URI: https://github.com/jorgiyo/plugin-quitar-menu-admin
 */
 
 function ece_remove_menus(){
