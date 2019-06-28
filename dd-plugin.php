@@ -3,7 +3,7 @@
 Plugin Name: DD Plugin
 Plugin URI: peonnegro.com
 Description: Plugin de WPcommerce Fácil
-Versión: 2.0
+Versión: 3.0
 Author: Fernando Portomeñe y jorgiyo
 GitHub Plugin URI: https://github.com/jorgiyo/plugin-quitar-menu-admin
 */
