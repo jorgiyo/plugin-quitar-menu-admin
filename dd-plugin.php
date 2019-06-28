@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: DD Plugin
+Plugin URI: peonnegro.com
 Description: Plugin de WPcommerce Fácil
+Versión: 2.0
 Author: Fernando Portomeñe
 */
 
